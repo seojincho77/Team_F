@@ -1,0 +1,25 @@
+평론가의 부정적 평가에 대한 분석
+
+Topic 0. 반복적이고 부실한 아동용 TV쇼
+주요 키워드: play, realli, bad, tv show
+대중 평가 포인트: 지나치게 반복적이고 단조로운 전개로 지루함, 낮은 완성도와 재미 부족
+
+Topic 1. 허술한 플롯의 드라마
+주요 키워드: big fan, messag, contriv, plot, melodrama, drama
+대중 평가 포인트: 이야기 전개가 인위적이고 비현실적, 감정 과잉이 몰입 저해, 플롯의 짜임새 부족으로 관객의 공감대 형성 실패
+
+Topic 2. 무미건조한 리메이크 영화
+핵심 키워드: piecem, earnest, fault, remak, elit, humorless, filthi, rich, new york, women
+대중 평가 포인트: 유머가 부족해 무겁고 지루함, 공감이 어렵고 편향적, 리메이크의 새로운 해석 부재, 감정 전달력 약함
+
+Topic 3. 난해한 외국 영화
+핵심 키워드: system, scenario, biography, book, create, learn
+대중 평가 포인트: 현지어 및 문맥 난해로 이해가 어렵고 몰입 방해, 영화가 추구하는 메시지나 스토리 전개가 불분명함, 관객 소통에 실패한 불친절한 연출
+
+Topic 4. 저예산 공포 영화
+핵심 키워드: sequel, terror, origin, profan, violenc, scare
+대중 평가 포인트: 공포 효과 과잉 및 잔혹성 강조로 피로감 증가, 스토리나 캐릭터 개발 미흡, 단순 공포 자극 위주, 전작과 비교해 진전 없이 반복적
+
+Topic 5. 단순하고 반복적인 욕설적 비판
+핵심 키워드: dumb
+대중 평가 포인트: 단순 반복적인 비난
