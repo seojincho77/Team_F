@@ -15,7 +15,8 @@
 
 - Rotten Tomatoes Critic Reviews Dataset (평론가 리뷰):  
   https://www.kaggle.com/datasets/stefanoleone992/rotten-tomatoes-movies-and-critic-reviews-dataset
-  
+
+---
 
 ### 1. `audience_review_topic_analysis.ipynb`
 IMDB 데이터셋을 기반으로 **관객 리뷰의 감정별 주요 키워드**를 추출하고 분석합니다.
