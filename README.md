@@ -4,7 +4,7 @@
 https://github.com/seojincho77/Team_F/releases/tag/v1.0.0
 
 
-### 1. `1.audience_review_topic_analysis.ipynb`
+### 1. `audience_review_topic_analysis.ipynb`
 IMDB 데이터셋을 기반으로 **관객 리뷰의 감정별 주요 키워드**를 추출하고 분석합니다.
 
 - **사용 데이터**: `IMDB Dataset.csv` (전처리된 버전: `cleaned_imdb_reviews.csv`)
@@ -16,7 +16,7 @@ IMDB 데이터셋을 기반으로 **관객 리뷰의 감정별 주요 키워드*
 
 ---
 
-### 2. `2.critic_review_topic_analysis.ipynb`
+### 2. `critic_review_topic_analysis.ipynb`
 Rotten Tomatoes의 평론가 리뷰 데이터를 기반으로 **감정별 주요 키워드**를 추출하여 분석합니다.
 
 - **사용 데이터**: `rotten_tomatoes_critic_reviews.csv` (전처리된 버전: `cleaned_rotten_tomatoes_critic_reviews.csv`)
@@ -28,7 +28,7 @@ Rotten Tomatoes의 평론가 리뷰 데이터를 기반으로 **감정별 주요
 
 ---
 
-### 3. `3.sentiment_agreement_check.ipynb`
+### 3. `sentiment_agreement_check.ipynb`
 관객과 평론가의 감정 분류 결과를 **모델을 통해 비교 분석**하고, 감정 인식의 일치 정도를 파악합니다.
 
 - **분석 방식**:
