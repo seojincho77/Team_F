@@ -1,10 +1,21 @@
 # Team_F
 
-사용한 데이터
-https://github.com/seojincho77/Team_F/releases/tag/v1.0.0
+## 사용한 데이터
 
-IMDB Movie Reviews Dataset(대중 리뷰) - https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
-Rotten Tomatoes Critic Reviews Dataset(평론가 리뷰) - https://www.kaggle.com/datasets/stefanoleone992/rotten-tomatoes-movies-and-critic-reviews-dataset
+- **분석에 실제 사용된 전처리 데이터**:  
+  [https://github.com/seojincho77/Team_F/releases/tag/v1.0.0](https://github.com/seojincho77/Team_F/releases/tag/v1.0.0)  
+  (전처리된 관객/평론가 리뷰 데이터 포함)
+
+---
+
+### 원본 데이터 출처
+
+- IMDB Movie Reviews Dataset (관객 리뷰):  
+  https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
+
+- Rotten Tomatoes Critic Reviews Dataset (평론가 리뷰):  
+  https://www.kaggle.com/datasets/stefanoleone992/rotten-tomatoes-movies-and-critic-reviews-dataset
+  
 
 ### 1. `audience_review_topic_analysis.ipynb`
 IMDB 데이터셋을 기반으로 **관객 리뷰의 감정별 주요 키워드**를 추출하고 분석합니다.
