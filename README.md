@@ -3,6 +3,8 @@
 사용한 데이터
 https://github.com/seojincho77/Team_F/releases/tag/v1.0.0
 
+IMDB Movie Reviews Dataset(대중 리뷰) - https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
+Rotten Tomatoes Critic Reviews Dataset(평론가 리뷰) - https://www.kaggle.com/datasets/stefanoleone992/rotten-tomatoes-movies-and-critic-reviews-dataset
 
 ### 1. `audience_review_topic_analysis.ipynb`
 IMDB 데이터셋을 기반으로 **관객 리뷰의 감정별 주요 키워드**를 추출하고 분석합니다.
@@ -35,3 +37,8 @@ Rotten Tomatoes의 평론가 리뷰 데이터를 기반으로 **감정별 주요
   - 관객 리뷰와 평론가 리뷰 각각에 대해 Word2Vec 임베딩 생성
   - 랜덤 포레스트 분류기를 통해 감정 분류 모델 학습
   - 분류 정확도 측정 및 향후 감정 일치율 분석 기반 마련
+
+---
+
+## 📊 분석 목적
+관객과 평론가가 **같은 영화를 어떻게 다르게 받아들이는가**를 분석하고, 감정 분석 결과가 얼마나 일치하는지를 확인함으로써 **예술성과 대중성의 차이 또는 교집합**을 찾아내는 것이 궁극적인 목적
